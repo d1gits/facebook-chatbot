@@ -1,0 +1,23 @@
+{
+  "name": "facebook-chatbot",
+  "version": "1.0.0",
+  "description": "Kasper - the friendly facebook chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d1gits/facebook-chatbot.git"
+  },
+  "keywords": [
+    "facebook",
+    "chatbot"
+  ],
+  "author": "Kasper Meilgaard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1gits/facebook-chatbot/issues"
+  },
+  "homepage": "https://github.com/d1gits/facebook-chatbot#readme"
+}
